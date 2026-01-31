@@ -1,0 +1,7 @@
+.obsidian/
+.trash/
+Thumbs.db
+.directory
+node_modules/
+.obsidian-git-log.txt
+*.swp
